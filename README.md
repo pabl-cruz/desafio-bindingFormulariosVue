@@ -1,6 +1,6 @@
 # desafio-bindingFormularios
 
-This template should help get you started developing with Vue 3 in Vite.
+Desafio evaluado de binding de variables uni y bidreccionales hacia un formulario en Vue.js para M6 de Bootcamp de programacion Front-end de Desafio Latam.
 
 ## Recommended IDE Setup
 
